@@ -1,4 +1,4 @@
-Home24 Code Challenge
+Code Sample
 ======================
 
 The application utilises:
